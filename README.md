@@ -1,4 +1,12 @@
-### Hi there 👋
+### Howdy! I'm Kevin Goldsmith.
+<img src="https://www.kevingoldsmith.com/talks/using-agile-techniques-to-build-a-more-inclusive-team.jpg" height="50%" width="50%" alt="Speaking at the LeadDev conference" />
+
+Most of my repositories are in python and many are for doing ETL on various web APIs.
+The most interesting ones are
+* [etltools](https://github.com/kevingoldsmith/etlutils): an open source libraries with useful toolks for ETL
+* [Spotify Extract](https://github.com/kevingoldsmith/spotify-extract): download your recently played tracks
+* [Oura Extract](https://github.com/kevingoldsmith/oura-extract): download your Oura Ring data
+
 
 <!--
 **kevingoldsmith/kevingoldsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
