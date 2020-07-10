@@ -4,7 +4,7 @@
 Most of my repositories are in python and many are for doing ETL on various web APIs.
 The most interesting ones are
 * [etltools](https://github.com/kevingoldsmith/etlutils): an open source library (contributions welcome!) with useful tools for ETL
-* [Spotify Extract](https://github.com/kevingoldsmith/spotify-extract): download your recently played tracks
+* [Spotify Extract](https://github.com/kevingoldsmith/spotify-extract): download your recently played tracks metadata
 * [Oura Extract](https://github.com/kevingoldsmith/oura-extract): download your Oura Ring data
 
 
