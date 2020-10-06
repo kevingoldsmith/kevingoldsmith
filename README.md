@@ -1,5 +1,5 @@
 ### Howdy! I'm Kevin Goldsmith.
-<img src="https://www.kevingoldsmith.com/talks/using-agile-techniques-to-build-a-more-inclusive-team.jpg" height="50%" width="50%" alt="Speaking at the LeadDev conference" />
+<img src="https://www.kevingoldsmith.com/talks/using-agile-techniques-to-build-a-more-inclusive-team2.jpg" height="50%" width="50%" alt="Speaking at the LeadDev conference" />
 
 Most of my repositories are in python and many are for doing ETL on various web APIs.
 The most interesting ones are
